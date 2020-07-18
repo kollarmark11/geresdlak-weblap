@@ -1,5 +1,8 @@
 <template>
-    <div class="container-fluid">  
-        <v-parallax src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg" height="500"></v-parallax>
-    </div>
+  <div class="container-fluid">
+    <v-parallax
+      src="https://i.ibb.co/L5cpYyk/IMG-7768.jpg"
+      height="550"
+    ></v-parallax>
+  </div>
 </template>
