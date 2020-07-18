@@ -3,7 +3,7 @@
     <v-row justify="center">
       <v-card width="600" class="my-15">
         <v-card-text>
-          <form action="POST" name="contact" method="POST" data-netlify="true">
+          <form action="POST" name="contact" method="POST" netlify>
             <v-col md="12" class="ma-0 py-3">
               <input type="text" name="name" placeholder="Név" />
 

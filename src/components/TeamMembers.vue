@@ -139,6 +139,7 @@ export default {};
 <style lang="scss" scoped>
 img {
   width: 100%;
+  border-radius: 15px;
 }
 .kep-block {
   display: inline-block;
